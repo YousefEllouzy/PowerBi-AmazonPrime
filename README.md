@@ -21,5 +21,5 @@ The goal is to extract insights, visualize trends, and better understand the pla
 - Ratings and popularity breakdowns.
 
 ## How to Run
-1. Open `amazon_prime_analysis.py` to explore the data using Python.
-2. Open `amazon_prime_dashboard.pbix` in Power BI to interact with the dashboard.
+1. Open `Amazon_EDABI.ipynb` to explore the data using Python.
+2. Open `AmazonPrimePrime.pbix` in Power BI to interact with the dashboard.
